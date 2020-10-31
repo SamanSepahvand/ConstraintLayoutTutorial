@@ -1,7 +1,8 @@
+
 # ConstraintLayoutTutorial
 
 
-<div align="right">
+<div align="right" dir="rtl" >
 
 <h4>لایه ConstraintLayout مزایا و امکانات زیادی دارد ، که شما با Drag & Drop کردن و خاصیت parent دادن به المان‌ها و ویجت‌های خود می‌توانید، به سریع ترین حالت ممکن، یک صفحه ریسپانسیو شده بسازید.از دیگر موارد گفته شده در این آموزش ساخت صفحات Parallax می باشد که مطمئنا برای ساخت صفحات زیبا و جذاب یک گزینه ایده آل می‌باشد</h4>
 </br>  <a href="https://faranesh.com/programming/18194-get-full-work-on-constraintlayout-on-android"><b>
@@ -49,7 +50,6 @@ LCTecchکانال یوتوب
 </a>
 
 </div>
-
 
 
 
